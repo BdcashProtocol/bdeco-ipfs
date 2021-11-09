@@ -1,0 +1,45 @@
+{
+  "name": "bdcash-ipfs",
+  "version": "1.0.0",
+  "description": "IPFS tool for NodeSH BDCash blockchain",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "file-type": "^10.11.0",
+    "formidable": "^1.2.1",
+    "http": "0.0.0",
+    "ipfs": "^0.39.0",
+    "unzip": "^0.1.11",
+    "snyk": "^1.239.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node ipfs.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BdcashProtocol/bdcash-ipfs.git"
+  },
+  "keywords": [
+    "ipfs",
+    "scrypta"
+  ],
+  "author": "turinglabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BdcashProtocol/bdcash-ipfs/issues"
+  },
+  "homepage": "https://github.com/BdcashProtocol/bdcash-ipfs#readme",
+  "snyk": true
+}

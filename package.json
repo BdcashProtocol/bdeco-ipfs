@@ -1,6 +1,6 @@
 {
-  "name": "bdcash-ipfs",
-  "version": "1.0.0",
+  "name": "@bdcash-protocol/ipfs",
+  "version": "1.0.1",
   "description": "IPFS tool for NodeSH BDCash blockchain",
   "main": "index.js",
   "directories": {
@@ -33,7 +33,7 @@
   },
   "keywords": [
     "ipfs",
-    "scrypta"
+    "bdcash"
   ],
   "author": "turinglabs",
   "license": "MIT",

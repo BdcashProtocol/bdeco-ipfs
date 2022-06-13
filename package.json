@@ -25,7 +25,7 @@
     "test": "mocha",
     "start": "node ipfs.js",
     "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "prepare": "sudo npm run snyk-protect"
   },
   "repository": {
     "type": "git",

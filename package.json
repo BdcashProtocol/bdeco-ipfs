@@ -1,5 +1,5 @@
 {
-  "name": "@bdeco/ipfs",
+  "name": "ipfs",
   "version": "1.0.0",
   "description": "IPFS tool for NodeSH BDECO blockchain",
   "main": "index.js",

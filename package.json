@@ -1,7 +1,7 @@
 {
-  "name": "@bdcash-protocol/ipfs",
-  "version": "1.0.1",
-  "description": "IPFS tool for NodeSH BDCash blockchain",
+  "name": "@bdeco/ipfs",
+  "version": "1.0.0",
+  "description": "IPFS tool for NodeSH BDECO blockchain",
   "main": "index.js",
   "directories": {
     "example": "examples",
@@ -29,17 +29,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BdcashProtocol/bdcash-ipfs.git"
+    "url": "git+https://github.com/BdcashProtocol/bdeco-ipfs.git"
   },
   "keywords": [
     "ipfs",
-    "bdcash"
+    "bdeco"
   ],
   "author": "turinglabs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BdcashProtocol/bdcash-ipfs/issues"
+    "url": "https://github.com/BdcashProtocol/bdeco-ipfs/issues"
   },
-  "homepage": "https://github.com/BdcashProtocol/bdcash-ipfs#readme",
+  "homepage": "https://github.com/BdcashProtocol/bdeco-ipfs#readme",
   "snyk": true
 }

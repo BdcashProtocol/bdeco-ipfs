@@ -41,5 +41,5 @@
     "url": "https://github.com/BdcashProtocol/bdeco-ipfs/issues"
   },
   "homepage": "https://github.com/BdcashProtocol/bdeco-ipfs#readme",
-  "snyk": false
+  "snyk": true
 }

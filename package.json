@@ -1,5 +1,5 @@
 {
-  "name": "@bdeco/ipfs",
+  "name": "@bdcash-protocol/ipfs",
   "version": "1.0.0",
   "description": "IPFS tool for NodeSH BDECO blockchain",
   "main": "index.js",
@@ -25,7 +25,7 @@
     "test": "mocha",
     "start": "node ipfs.js",
     "snyk-protect": "snyk protect",
-    "prepare": "sudo npm run snyk-protect"
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
